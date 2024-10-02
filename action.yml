@@ -1,4 +1,4 @@
-name: "Podcast generator"
+name: "Docker Ruval generator"
 author: "Diego Ruvalcaba"
 description: "Generated a feed for a podcast from a YAML file"
 runs:
